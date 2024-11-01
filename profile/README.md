@@ -16,3 +16,11 @@ Our core ethos is:
 
 If you have issues about how this organization is ran, you can bring them up with the owners of the organization, that is @vega-d (msg@vega76.cz, discord: `vega_d`) and stew675 (discord: `stew675`). 
 This document can and will change as our organization grows and evolves. But the edit history will always be visible [in the git commits log](https://github.com/qidi-community/.github/commits/main/).
+
+### Supporting us
+
+Fabreeko has been so kind to setup a donations page for the team. Your donation  will be in rolls of filament to keep us printing. 
+
+While 100% optional, it is truly appreciated. 
+
+[![support us](https://raw.githubusercontent.com/qidi-community/Plus4-Wiki/refs/heads/main/content/support.png)]([https://example.com](https://www.fabreeko.com/products/qidi-community-filament-drive-as-a-thankyou-for-members))
